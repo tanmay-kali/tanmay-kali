@@ -1,10 +1,20 @@
 # 💫 About Me:
 I am currently working on Web3 projects along with competitive programming
 
-# IOS Projects
+## Web Projects
+* https://sneak-search.herokuapp.com/#/
+* https://cryptoid-buy.herokuapp.com/
+* https://eloquent-dolphin-9c73a9.netlify.app/
+* https://crypto-fb33a.web.app/
+* https://tanmay-kali.github.io/File-Sharing/
+
+## IOS Projects
 * https://github.com/tanmay-kali/twitter_ios_starter
 * https://github.com/tanmay-kali/Pastagram
 * https://github.com/tanmay-kali/TipCalculator-codepath
+
+## Android(Kotlin) Projects
+* https://github.com/tanmay-kali/polynomialManagerKotlin
 
 
 
