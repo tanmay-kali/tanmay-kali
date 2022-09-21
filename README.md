@@ -18,6 +18,17 @@ I am currently working on Web3 projects along with competitive programming
 * https://github.com/tanmay-kali/polynomialManagerKotlin
 * https://github.com/tanmay-kali/calculatorKotlin
 
+## Web3 Projects
+* https://staking.spacemisfits.com/
+* https://immersionminers.club/
+* https://github.com/tanmay-kali/nft-mystery-box-reveal
+* https://github.com/tanmay-kali/nft-based-login
+
+## Competitive Programming 
+* Meta Hacker Cup 2022 Round 2 
+* https://www.codechef.com/users/tanmaykejriwal
+* https://github.com/tanmay-kali/CompetitiveProgBasics
+
 
 
 ## 🌐 Socials:
