@@ -1,6 +1,12 @@
 # 💫 About Me:
 I am currently working on Web3 projects along with competitive programming
 
+#IOS Projects
+*https://github.com/tanmay-kali/twitter_ios_starter
+*https://github.com/tanmay-kali/Pastagram
+*https://github.com/tanmay-kali/TipCalculator-codepath
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaykejriwal) 
