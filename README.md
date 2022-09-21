@@ -12,9 +12,11 @@ I am currently working on Web3 projects along with competitive programming
 * https://github.com/tanmay-kali/twitter_ios_starter
 * https://github.com/tanmay-kali/Pastagram
 * https://github.com/tanmay-kali/TipCalculator-codepath
+* https://github.com/tanmay-kali/flixApp
 
 ## Android(Kotlin) Projects
 * https://github.com/tanmay-kali/polynomialManagerKotlin
+* https://github.com/tanmay-kali/calculatorKotlin
 
 
 
