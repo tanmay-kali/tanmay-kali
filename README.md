@@ -2,6 +2,7 @@
 I am currently working on Web3 projects along with competitive programming
 
 ## Web Projects
+* https://environmentality.tech/
 * https://github.com/tanmay-kali/ebayWallet
 * https://sneak-search.herokuapp.com/#/
 * https://cryptoid-buy.herokuapp.com/
