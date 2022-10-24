@@ -20,7 +20,7 @@ I am currently working on Web3 projects along with competitive programming
 ## Android(Kotlin) Projects
 * https://github.com/tanmay-kali/polynomialManagerKotlin
 * https://github.com/tanmay-kali/calculatorKotlin
-* https://github.com/tanmay-kali/AgeInMinutes
+* https://github.com/tanmay-kali/coreCalculator
 
 ## Web3 Projects
 * https://staking.spacemisfits.com/
