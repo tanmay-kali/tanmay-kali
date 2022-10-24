@@ -18,6 +18,7 @@ I am currently working on Web3 projects along with competitive programming
 * https://github.com/tanmay-kali/flixApp
 
 ## Android(Kotlin) Projects
+* https://github.com/tanmay-kali/peopleCounter
 * https://github.com/tanmay-kali/polynomialManagerKotlin
 * https://github.com/tanmay-kali/calculatorKotlin
 * https://github.com/tanmay-kali/coreCalculator
