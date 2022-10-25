@@ -22,7 +22,8 @@ I am currently working on Web3 projects along with competitive programming
 * https://github.com/tanmay-kali/polynomialManagerKotlin
 * https://github.com/tanmay-kali/calculatorKotlin
 * https://github.com/tanmay-kali/coreCalculator
-* https://github.com/tanmay-kali/QuizApp.git
+* https://github.com/tanmay-kali/QuizApp
+* https://github.com/tanmay-kali/PaintApp
 
 ## Web3 Projects
 * https://staking.spacemisfits.com/
