@@ -31,6 +31,9 @@ I am currently working on Web3 projects along with competitive programming
 * https://github.com/tanmay-kali/nft-mystery-box-reveal
 * https://github.com/tanmay-kali/nft-based-login
 
+## Hardware Projects
+* https://github.com/tanmay-kali/HomeAlarmSystem.git 
+
 ## Competitive Programming 
 * Meta Hacker Cup 2022 Round 2 
 * https://www.codechef.com/users/tanmaykejriwal
