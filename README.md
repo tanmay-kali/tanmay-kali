@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently working on Web3 projects along with competitive programming
+I am currently working on Saas products
+
+## Saas Products
+* https://apps.shopify.com/compress-files
+* https://apps.shopify.com/editify
+* https://chat-doc-three.vercel.app/
+
+
 
 ## Web Projects
 * https://environmentality.tech/
