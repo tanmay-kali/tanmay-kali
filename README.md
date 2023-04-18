@@ -13,9 +13,6 @@ I am currently working on SaaS products
 ## Web Projects
 * https://environmentality.tech/
 * https://github.com/tanmay-kali/ebayWallet
-* https://sneak-search.herokuapp.com/#/
-* https://cryptoid-buy.herokuapp.com/
-* https://eloquent-dolphin-9c73a9.netlify.app/
 * https://crypto-fb33a.web.app/
 * https://tanmay-kali.github.io/File-Sharing/
 
