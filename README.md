@@ -7,6 +7,8 @@ I am currently working on SaaS products
 * https://chat-doc-three.vercel.app/
 * https://www.open-planner.com/Home
 * https://www.arlingtonbethany.com/
+* https://play.google.com/store/apps/details?id=com.xyrictech.bethany
+* https://apps.apple.com/us/app/bethany-cafe/id6448219299
 
 
 
